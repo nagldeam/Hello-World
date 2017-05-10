@@ -1,2 +1,5 @@
 # Hello-World
-just anotehr repository
+just another repository
+
+
+Graham Deamer
